@@ -1,0 +1,1 @@
+!function(o){"use strict";o.module("solarwinds-meetup-workshop").config(["$routeProvider",function(o){o.when("/",{templateUrl:"todo/templates/todo.html",controller:"TodoController",controllerAs:"todoCtrl"}).otherwise({redirectTo:"/"})}])}(window.angular);

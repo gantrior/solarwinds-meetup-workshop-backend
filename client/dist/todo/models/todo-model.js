@@ -1,0 +1,1 @@
+!function(t){"use strict";t.module("solarwinds-meetup-workshop").factory("Todo",[function(){var o=function(o){var e=this;return e.todoMessage=null,t.extend(e,o),e},e=5;return o.prototype.isValid=function(){var o=t.isDefined(this.todoMessage),s=t.isString(this.todoMessage),n=o&&s?this.todoMessage.length>=e:!1;return o&&s&&n},o}])}(window.angular);

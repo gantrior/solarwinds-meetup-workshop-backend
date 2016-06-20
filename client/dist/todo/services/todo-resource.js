@@ -1,0 +1,1 @@
+!function(o){"use strict";o.module("solarwinds-meetup-workshop").factory("TodoResource",["$resource",function(o){var r="/api/todos/:id",e={},u={};return o(r,e,u)}])}(window.angular);

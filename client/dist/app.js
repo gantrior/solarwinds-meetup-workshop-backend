@@ -1,0 +1,1 @@
+!function(e){"use strict";e.module("solarwinds-meetup-workshop",["ngResource","ngRoute","ngMessages"])}(window.angular);
